@@ -1,0 +1,11 @@
+node_modules
+src
+tests
+examples
+.gitignore
+tsconfig*.json
+*.log
+.env*
+coverage
+.github
+.vscode
