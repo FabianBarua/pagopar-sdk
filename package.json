@@ -1,6 +1,9 @@
 {
-    "name": "pagopar-sdk",
-    "version": "0.1.0",
+    "name": "@fabianbarua/pagopar-sdk",
+    "publishConfig": {
+        "access": "public"
+    },
+    "version": "0.1.1",
     "description": "SDK no oficial de Pagopar para Node.js / TypeScript. Cliente tipado para iniciar transacciones, consultar pedidos y manejar webhooks.",
     "main": "dist/index.js",
     "module": "dist/index.mjs",
